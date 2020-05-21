@@ -1,0 +1,3 @@
+[submodule "shopping"]
+	path = shopping
+	url = https://github.com/ashokdhenumkonda/shopping.git
